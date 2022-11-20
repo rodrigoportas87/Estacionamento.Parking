@@ -1,0 +1,12 @@
+c:\users\diogo\documents\visual studio 2010\Projects\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+c:\users\diogo\documents\visual studio 2010\Projects\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+c:\users\diogo\documents\visual studio 2010\Projects\Estacionamento\Estacionamento\bin\Debug\Estacionamento.xml
+c:\users\diogo\documents\visual studio 2010\Projects\Estacionamento\Estacionamento\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\diogo\documents\visual studio 2010\Projects\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.Form1.resources
+c:\users\diogo\documents\visual studio 2010\Projects\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.Resources.resources
+c:\users\diogo\documents\visual studio 2010\Projects\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.exe
+c:\users\diogo\documents\visual studio 2010\Projects\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.xml
+c:\users\diogo\documents\visual studio 2010\Projects\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.pdb
+C:\Users\Diogo\Documents\Visual Studio 2010\Projects\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\Diogo\Documents\Visual Studio 2010\Projects\Estacionamento\Estacionamento\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Diogo\Documents\Visual Studio 2010\Projects\Estacionamento\Estacionamento\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
